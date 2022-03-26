@@ -1,0 +1,146 @@
+*{
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#topo {
+	background: 
+}
+
+.imagem_header{
+	max-width: 900px;
+	width: 100%;
+	}
+
+.logo_header, .logo_footer {
+	max-width: 150px;
+    width: 100%;
+    margin: 0;
+    display: block;
+}
+
+.conteudo_header {
+	max-width: 967px;
+    overflow: hidden;
+}
+
+.conteudo_metodologias_l2_c2 div{
+	float: left;
+	width: auto;
+	box-sizing: border-box;
+}
+
+.conteudo_header div{
+	float: left;
+	width: 50%;
+	box-sizing: border-box;
+}
+.conteudo_metodologias_l1 h2, .corpo_docente_responsive_titulo{
+	text-align: center;
+}
+
+.tabela_ensino img{
+	max-width: 300px;
+	width: 100%;
+	box-sizing: border-box;
+}
+.conteudo_metodologias_l1 div{
+	float: left;
+	width: 33%;
+	box-sizing: border-box;
+	margin: auto;
+	align-items: center;
+	text-align: justify;
+	padding: 0 6px;
+}
+
+.form{
+	background: #fff;
+	border: #8a8a8a solid 4px;
+	border-radius: 10px;
+	width: 100%;
+	box-sizing: border-box;
+	margin: 10px 0;
+	border: 0;
+	padding: 8px 10px;
+}
+
+.contato h2, h4{
+	text-align: center;
+}
+
+contato{
+	background: #49ced9;
+	border: #8a8a8a solid 4px;
+	border-radius: 10px;
+	width: 100%;
+	box-sizing: border-box;
+	margin: 10px 0;
+	border: 0;
+	padding: 8px 10px;
+}
+
+.btn_tenho_interesse{
+	background: #fc4c86;
+	border: #49ced9 solid 4px;
+	border-radius: 10px;
+	width: 100%;
+	box-sizing: border-box;
+	max-width: 200px;
+	color: #fff;
+	text-align: center;
+	margin: auto;
+}
+
+.saber_mais div, form {
+	float: left;
+	width: 100%;
+	box-sizing: border-box;
+	max-width: 300px;
+}
+
+
+.mapa {
+	max-width: 500px;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.corpo_docente_responsive img, .depoimentos img{
+	max-width: 200px;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.corpo_docente_responsive {
+    display: grid;
+    gap: 5px;
+    grid-template-columns: auto auto auto;
+    padding: 5px;
+    align-items: center;
+}
+
+
+.gallery1 img {
+	max-width: 200px;
+	width: 100%;
+	height: auto;
+}
+
+
+.gallery_l1 {
+  padding: 0 6px;
+  float: left;
+  width: 50%;
+  overflow: hidden;
+}
+
+.dep_col1 {
+  padding: 0 6px;
+  float: left;
+  width: 33%;
+}
+
+.conteudo_footer{
+	text-align: right;
+}
